@@ -1,2 +1,4 @@
-# Welcome to reiersen.io
+**Contact:**
 
+Joachim Reiersen  
+[LinkedIn]({{ site.linkedin }})
